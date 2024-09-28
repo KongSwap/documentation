@@ -1,3 +1,3 @@
 # documentation
 
-KongSwap project documentation
+KongSwap project documentation.
