@@ -200,10 +200,10 @@ Liquidity providers who stake their LP positions for a specified period will rec
 ### Initial Allocation
 
 - **Community Rewards**:
-  - *DAO Treasury*: 60% - Managed by the community for development, growth initiatives, and liquidity rewards distribution.
+  - *DAO Treasury*: 58% - Managed by the community for development, growth initiatives, and liquidity rewards distribution.
   - From the total, we would like to allocate 25% to liquidity provider rewards and incentivization of trading on KongSwap. 1% will be allocated as an airdrop to early liquidity providers that will provide liquidity on the platform prior to the SNS sale.
 
-- **Decentralization Swap**: 20% - Distributed to the community through the SNS.
+- **Decentralization Swap**: 22% - Distributed to the community through the SNS.
 - **Development Team**: 20% - Dissolve over two years to ensure continued commitment.
 
 ## Roadmap
