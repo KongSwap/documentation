@@ -189,7 +189,6 @@ The SNS will provide the necessary funding to continue the development of KongSw
 
 - **Ticker**: $KONG
 - **Total Supply**: 1,000,000,000 tokens
-- **Valuation**: $15 million
 
 #### Utility
 
